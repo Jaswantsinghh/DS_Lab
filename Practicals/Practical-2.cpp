@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#defineMAX 100
+#define MAX 100
 using namespace std;
 int stck[MAX], n=100, top=-1;
 int push();
