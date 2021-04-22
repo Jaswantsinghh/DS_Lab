@@ -24,7 +24,7 @@ int main()
   return 0;
 } 
 
-int convert(strings)
+int convert(string s)
 {
   stack<char> stck;
   string dup;
